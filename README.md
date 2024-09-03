@@ -1,6 +1,20 @@
 # news_app
 
-A new Flutter project.
+##Tesla News
+###Home Screen
+![image](https://github.com/user-attachments/assets/8936737c-ddfd-4f26-88be-f51c4396c43a)
+###Detail Screen
+![image](https://github.com/user-attachments/assets/44ea7f59-74fa-4c3d-a721-08c45f81537b)
+
+
+
+## Apple News
+###Home Screen
+![image](https://github.com/user-attachments/assets/5ef84096-4038-4ec2-acdc-87f8a5086e0a)
+###Detail Screen
+![image](https://github.com/user-attachments/assets/3bd74847-c79f-4917-865d-564987b0f1f9)
+
+
 
 ## Getting Started
 
